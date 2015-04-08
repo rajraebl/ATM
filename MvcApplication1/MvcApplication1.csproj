@@ -197,6 +197,7 @@
     <None Include="Properties\PublishProfiles\rajdashboard-us.pubxml" />
     <None Include="Properties\PublishProfiles\rajdashboard.pubxml" />
     <None Include="Properties\PublishProfiles\rajdashboard__myStagingSlot.pubxml" />
+    <None Include="Properties\PublishProfiles\rajdashboard__staging.pubxml" />
     <None Include="Scripts\jquery-2.1.3.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.3.js" />
     <Content Include="Scripts\jquery-2.1.3.min.js" />
